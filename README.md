@@ -21,26 +21,5 @@ The goal of this project is to create a simple web application that allows users
 
 ## Requirements
 
-To run this project, you need to download the following dependencies too:
-numpy
-pandas
-scikit-learn
-scipy
-appdirs
-certifi
-click
-distlib
-Flask
-Flask-Cors
-gunicorn
-itsdangerous
-Jinja2
-joblib
-MarkupSafe
-python-dateutil
-pytz
-six
-xgboost
-virtualenv
-Werkzeug
-wincertstore
+To run this project, you need to download the following dependencies (you can download them using cmd etc):
+numpy, pandas, scikit-learn, scipy, appdirs, certifi, click, distlib, Flask, Flask-Cors, gunicorn, itsdangerous, Jinja2, joblib, MarkupSafe, python-dateutil, pytz, six, xgboost, virtualenv, Werkzeug, wincertstore.
