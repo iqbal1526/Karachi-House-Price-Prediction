@@ -15,7 +15,7 @@ The goal of this project is to create a simple web application that allows users
 
 ## Model Results
 Forest Tree Regression was used in this project which yielded the following values of MSE RMSE and R-SQUARED
-![error values](/Screenshots/value_of_errors.png)
+![error values](/Screenshots/value_of_errors.png) /
 Scatter Plot of the actual and predicted values after testing the model
 ![chart](/Screenshots/chart.png)
 
@@ -23,6 +23,11 @@ Scatter Plot of the actual and predicted values after testing the model
 following is a short gif of the web application. (the value of the predicted price is changing as the value of Bedrooms, Bathrooms, Area, Location, and type is changed and the button is pressed).
 ![video](/Screenshots/webapp_demonstration.gif)
 
+## Running the app
+- run the app.py file
+- A URL will be assigned for e.g. (http://127.0.0.1:5000)
+- copy and paste it on any browser and run it and you're good to go!
+- 
 ## Requirements
 
 To run this project, you need to download the following dependencies (you can download them using cmd etc):
