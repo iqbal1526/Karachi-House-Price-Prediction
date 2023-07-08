@@ -15,8 +15,8 @@ The goal of this project is to create a simple web application that allows users
 
 ## Model Results
 Forest Tree Regression was used in this project which yielded the following values of MSE RMSE and R-SQUARED
-![error values](/Screenshots/value_of_errors.png) /
-Scatter Plot of the actual and predicted values after testing the model
+![error values](/Screenshots/value_of_errors.png)
+<br> Scatter Plot of the actual and predicted values after testing the model
 ![chart](/Screenshots/chart.png)
 
 ## Front-end Demonstration
