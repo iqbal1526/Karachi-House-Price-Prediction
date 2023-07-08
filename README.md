@@ -24,10 +24,11 @@ following is a short gif of the web application. (the value of the predicted pri
 ![video](/Screenshots/webapp_demonstration.gif)
 
 ## Running the app
-- run the app.py file
+- Download the repository
+- Run the app.py file
 - A URL will be assigned for e.g. (http://127.0.0.1:5000)
 - copy and paste it on any browser and run it and you're good to go!
-- 
+
 ## Requirements
 
 To run this project, you need to download the following dependencies (you can download them using cmd etc):
