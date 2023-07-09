@@ -2,6 +2,16 @@
 
 This project is a real estate price prediction system built using machine learning techniques. It predicts the price of a property based on features such as bedrooms, bathrooms, area, and location.
 
+## Model Results
+Forest Tree Regression was used in this project which yielded the following values of MSE RMSE and R-SQUARED:
+![error values](/Screenshots/value_of_errors.png)
+<br> <br> Scatter Plot of the actual and predicted values after testing the model:
+![chart](/Screenshots/chart.png)
+
+## Front-end Demonstration
+following is a short gif of the web application. (the value of the predicted price is changing as the value of Bedrooms, Bathrooms, Area, Location, and type is changed and the button is pressed).
+![video](/Screenshots/webapp_demonstration.gif)
+
 ## Project Overview
 
 The goal of this project is to create a simple web application that allows users to input property details and get an estimated price. The project consists of the following components:
@@ -12,16 +22,6 @@ The goal of this project is to create a simple web application that allows users
 - `model.pickle`: Pickle file containing the trained machine learning model.
 - `columns.json`: JSON file containing the column names used during training.
 - `index.html`: Containing a simple frontend.
-
-## Model Results
-Forest Tree Regression was used in this project which yielded the following values of MSE RMSE and R-SQUARED:
-![error values](/Screenshots/value_of_errors.png)
-<br> <br> Scatter Plot of the actual and predicted values after testing the model:
-![chart](/Screenshots/chart.png)
-
-## Front-end Demonstration
-following is a short gif of the web application. (the value of the predicted price is changing as the value of Bedrooms, Bathrooms, Area, Location, and type is changed and the button is pressed).
-![video](/Screenshots/webapp_demonstration.gif)
 
 ## Running the app
 - Download the repository
